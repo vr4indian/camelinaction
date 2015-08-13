@@ -12,8 +12,9 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <name>Camel in Action :: Chapter 9</name>
-
+        
     <modules>
+        
         <module>riderautoparts-partner</module>
         <module>multiple-routes</module>
         <module>riderautoparts-order</module>
